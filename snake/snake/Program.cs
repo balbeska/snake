@@ -28,6 +28,12 @@ namespace snake
             p1.sym = '*';
             p1.Draw();
 
+            Point p4 = new Point();
+            p1.x = 2;
+            p1.y = 7;
+            p1.sym = '*';
+            p1.Draw();
+
 
 
 
